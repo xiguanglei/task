@@ -1,0 +1,11 @@
+body{
+    margin:0;
+}
+    div{
+        border-radius:15px;
+        margin:1vw;
+        width:30vw;
+        height:30vw;
+        background: #ffdd4d;
+        float: left;
+    }
