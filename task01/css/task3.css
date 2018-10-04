@@ -1,4 +1,7 @@
-body {background-color:#68cdd5;}
+body {
+    background-color:#68cdd5;
+    margin: 0;
+}
 .header img{ width:59px;
     height: 57px;
 }
@@ -17,7 +20,7 @@ body {background-color:#68cdd5;}
     text-align: center;
     font-size: 25px;
     color: #ffffff;
-    margin: 150px 50px;
+    margin: 100px 50px;
 
 
 }
